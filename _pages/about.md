@@ -29,7 +29,7 @@ Hello! I am a researcher in near-field communications, working on channel estima
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Line-of-Sight Extra-Large MIMO Systems with Angular-Domain Processing: Channel Representation and Transceiver Architecture published in IEEE Transactions on Communications](https://ieeexplore.ieee.org/abstract/document/10278494)
+[Line-of-Sight Extra-Large MIMO Systems with Angular-Domain Processing: Channel Representation and Transceiver Architecture published in IEEE Transactions on Communications] (https://ieeexplore.ieee.org/abstract/document/10278494)
 
 **Anzheng Tang**, Jun-Bo Wang, Yijin Pan, Wence Zhang, Yijian Chen, Hongkang Yu, and Rodrigo C. de Lamare
 
