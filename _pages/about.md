@@ -35,6 +35,8 @@ Hello! I am a researcher in near-field communications, working on channel estima
 
 [Joint Visibility Region and Channel Estimation for Extremely Large-Scale MIMO Systems published in IEEE Transactions on Communications] (https://ieeexplore.ieee.org/document/10509715)
 
+**Anzheng Tang**, Jun-Bo Wang, Yijin Pan, Wence Zhang, Yijian Chen, Hongkang Yu, and Rodrigo C. de Lamare
+
 [Power Control and Passive Beamforming for the STAR-RIS With Rotatable Angles] (https://ieeexplore.ieee.org/document/10444937)
 
 Jun-Bo Wang, Bingqian Zhu, Yijin Pan, Yijian Chen, Hongkang Yu, **Anzheng Tang**, and Jiangzhou Wang
