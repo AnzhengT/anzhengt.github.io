@@ -42,19 +42,15 @@ My research interest includes XL-MIMO communications, statistical signal process
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2022.03 - Present*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
 - *2020.09 - 2022.02*, M.S. in Communications and Information Systems, Southeast University, Nanjing, China.
 - *2016.08 - 2020.06*, B.E. in Communication Engineering, Ocean University of China, Qingdao, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💻 Academic Services
+# 💬 Academic Services
 - *Journal Reviewer*: IEEE TSP, IEEE TWC, IEEE TCOM, IEEE WCL.
 - *Conference reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC.
