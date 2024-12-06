@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in Communication Engineering from Ocean University of China, Qingdao, China, in 2020. Since 2022, I have been pursuing the Ph.D. degree at the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China. His research interests focus on XL-MIMO communications, statistical signal processing, and electromagnetic information theory. He has served as a Reviewer for several prestigious IEEE journals, including IEEE Wireless Communications Letters, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Signal Processing.
+I received the B.S. degree in Communication Engineering from Ocean University of China, Qingdao, China, in 2020. Since 2022, I have been pursuing the Ph.D. degree at the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China. My research interest includes Beyond Massive MIMO for future 6G wireless communications, involving:
 
-My research interest includes XL-MIMO communications, statistical signal processing, and electromagnetic information theory. I have published more than 10 papers at the top IEEE journals and conferences.
+- Electromegnatic Information Theory: Channel Modeling, Spatial Non-Uniform Sampling
+- Statistical Signal Processing: Compressive Sensing, Channel Estimation, MIMO Detection
+- Resource Optimization: Matrix Analysis, Convex Optimization
 
 
 # 🔥 News
