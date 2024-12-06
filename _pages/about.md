@@ -23,24 +23,26 @@ My research interest includes XL-MIMO communications, statistical signal process
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP. 
+- *2024.10*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCSP.
+- *2024.06*: &nbsp;🎉🎉 A conference paper is accepted by IEEE ISWCS.
+- *2024.04*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
+- *2023.10*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
+
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+1. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
+2. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Joint Visibility Region and Channel Estimation for Extremely Large-Scale MIMO Systems](https://ieeexplore.ieee.org/document/10509715)," **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 570–584, Oct. 2024.
+3. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Spatially Non-Stationary XL-MIMO Channel Estimation: A Three-Layer Generalized Approximate Message Passing Method]", **IEEE Trans. Signal Process.**, early access.
+4. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, Y. Chen, H. Yu, and M. Elkashlan, "[Revisiting XL-MIMO channel estimation: When dualwideband effects meet near field](Revisiting XL-MIMO channel estimation: When dualwideband effects meet near field)," submitted to IEEE TWC.
+5. **A. Tang**, J.-B. Wang, Y. Pan, C. Zeng, Y. Chen, H. Yu, M. Xiao and J. Wang, "Channel Estimation for Extremely Large-Scale MIMO Systems: Integrating Decentralized Estimation with Centralized Fusion", submitted to IEEE TCOM.
+6. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "Power Control and Passive Beamforming for the STAR-RIS With Rotatable Angles", **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
+7. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "Joint Deployment and Beamforming Design for STAR-RIS Aided Communication", **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
+8.  **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "Low-Dimension Angular-Domain Representation for Near-Field Extra-Large MIMO Channel," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
+9.  **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "Joint Visibility Region and Channel Estimation for Extremely Large-Scale MIMO Systems," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
+10. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "Fractional Fourier Transformation Based XL-MIMO Near-Field Channel Analysis," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
+11. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "Joint Power and Trajectory Control for Integrated Satellite-USV-Terrestrial Maritime Rescue System," accepted by IEEE WCSP 2024.
+12. **A. Tang**, J.-B. Wang, Y. Pan, Y. Chen, H. Yu, and Z. Wang, "Channel Estimation for Multiuser Extremely Large-Scale MIMO Systems", submitted to IEEE WCNC WorkShop 2024.
 
 # 📖 Educations
 - *2022.03 - Present*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
