@@ -36,7 +36,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 # 📝 Publications 
 1. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
 2. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
-3. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method](https://arxiv.org/abs/2403.02633)," accepted by **IEEE Trans. Signal Process.**, Dec. 2024.
+3. **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method (https://ieeexplore.ieee.org/document/10780971)," accepted by **IEEE Trans. Signal Process.**, Dec. 2024.
 4. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, Y. Chen, H. Yu, and M. Elkashlan, "[Revisiting XL-MIMO channel estimation: When dual-wideband effects meet near field](https://arxiv.org/abs/2407.05643)," submitted to IEEE TWC.
 5. **A. Tang**, J.-B. Wang, Y. Pan, C. Zeng, Y. Chen, H. Yu, M. Xiao and J. Wang, "Channel Estimation for Extremely Large-Scale MIMO Systems: Integrating Decentralized Estimation with Centralized Fusion," submitted to IEEE TCOM.
 6. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
@@ -61,4 +61,4 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 
 # 💬 Academic Services
 - *Journal Reviewer*: IEEE TSP, IEEE TWC, IEEE TCOM, IEEE WCL.
-- *Conference reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC.
+- *Conference Reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC.
