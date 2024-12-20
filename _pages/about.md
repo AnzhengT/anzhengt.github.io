@@ -60,5 +60,5 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 - *2017.09, 2018.09, 2019.09* The Excellent Student  of Ocean University of China.   
 
 # 💬 Academic Services
-- *Journal Reviewer*: IEEE TSP, IEEE TWC, IEEE TCOM, IEEE WCL.
+- *Journal Reviewer*: IEEE TSP, IEEE TWC, IEEE TCOM, IEEE IoT, IEEE WCL.
 - *Conference Reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC.
