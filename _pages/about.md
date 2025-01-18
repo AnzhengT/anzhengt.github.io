@@ -26,6 +26,7 @@ I received the B.S. degree in Communication Engineering from Ocean University of
 Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCNC WorkShop.
 - *2024.12*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP. 
 - *2024.10*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCSP.
 - *2024.06*: &nbsp;🎉🎉 A conference paper is accepted by IEEE ISWCS.
@@ -43,7 +44,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 7. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 8.  **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Low-dimension angular-domain representation for near-field extra-large MIMO channel](https://ieeexplore.ieee.org/document/10333546)," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
 9.  **A. Tang**, J.-B. Wang, Y. Pan, W. Zhang, Y. Chen, H. Yu, and R. C. de Lamare, "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10639048)," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
-10.  **A. Tang**, J.-B. Wang, Y. Pan, Y. Chen, H. Yu, and Z. Wang, "Channel estimation for multiuser extremely large-scale MIMO systems," submitted to IEEE WCNC WorkShop 2025.
+10.  **A. Tang**, J.-B. Wang, Y. Pan, Y. Chen, H. Yu, and Z. Wang, "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC WorkShop 2025.
 11. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
 12. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
 
