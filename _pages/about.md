@@ -47,6 +47,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 10.  **A. Tang**, J.-B. Wang, Y. Pan, Y. Chen, H. Yu, and Z. Wang, "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC WorkShop 2025.
 11. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
 12. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
+13. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," submitted to ICC WorkShop 2025.
 
 # 📖 Educations
 - *2022.03 - Present*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
@@ -62,4 +63,4 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 
 # 💬 Academic Services
 - *Journal Reviewer*: IEEE TSP, IEEE TWC, IEEE TCOM, IEEE IoT, IEEE WCL.
-- *Conference Reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC.
+- *Conference Reviewer*: IEEE SPAWC, IEEE WCSP, IEEE WCNC, IEEE ICCC.
