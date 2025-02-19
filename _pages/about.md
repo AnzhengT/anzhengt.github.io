@@ -63,13 +63,13 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 
 # 💬 Academic Services
 - **Journal Reviewer**
-  - IEEE TSP
-  - IEEE TWC
-  - IEEE TCOM
-  - IEEE IoT
-  - IEEE WCL
+  - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Wireless Communications 
+  - IEEE Transactions on Communications
+  - IEEE Internet of Things Journal
+  - IEEE Wireless Communications Letters
 - **Conference Reviewer**
-  - IEEE SPAWC
-  - IEEE WCSP
-  - IEEE WCNC
-  - IEEE ICCC
+  - IEEE International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC)
+  - IEEE Wireless Communications and Networking Conference (WCNC)
+  - IEEE International Conference on Wireless Communications and Signal Processing (WCSP)
+  - IEEE International Conference on Communications in China (ICCC)
