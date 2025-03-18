@@ -26,6 +26,7 @@ I received the B.S. degree in Communication Engineering from Ocean University of
 Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 I have been awarded the **Student Travel Grant** of WCNC 2025.
 - *2025.01*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCNC WorkShop.
 - *2024.12*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP. 
 - *2024.10*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCSP.
