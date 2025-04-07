@@ -23,7 +23,7 @@ I received the B.S. degree in Communication Engineering from Ocean University of
 - Statistical Signal Processing: Compressive Sensing, Channel Estimation, MIMO Detection
 - Resource Optimization: Matrix Analysis, Convex Optimization
 
-Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, etc.) in the field of Beyond Massive MIMO.
+Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I have been awarded a **Student Travel Grant** for WCNC 2025.
