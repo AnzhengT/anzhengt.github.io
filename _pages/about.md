@@ -26,6 +26,7 @@ I received the B.S. degree in Communication Engineering from Ocean University of
 Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
 - *2025.03*: &nbsp;🎉🎉 I have been awarded a **Student Travel Grant** for WCNC 2025.
 - *2025.01*: &nbsp;🎉🎉 A conference paper is accepted by IEEE WCNC WorkShop.
 - *2024.12*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP. 
@@ -40,7 +41,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 2. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
 3. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method](https://ieeexplore.ieee.org/document/10780971)," in **IEEE Trans. Signal Process.**, vol. 73, pp. 356-371, Jan. 2025.
 4. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, and M. Elkashlan, et al., "[Revisiting XL-MIMO channel estimation: When dual-wideband effects meet near field](https://arxiv.org/abs/2407.05643)," submitted to IEEE TWC.
-5. **A. Tang**, J.-B. Wang, Y. Pan, M. Xiao, R. C. de Lamare, and J. Wang et al., "[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](https://arxiv.org/abs/2501.17059)," submitted to IEEE TCOM.
+5. **A. Tang**, J.-B. Wang, Y. Pan, M. Xiao, R. C. de Lamare, and J. Wang et al., "[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](https://arxiv.org/abs/2501.17059)," accepted by IEEE TCOM.
 6. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
 7. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 8.  **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Low-dimension angular-domain representation for near-field extra-large MIMO channel](https://ieeexplore.ieee.org/document/10333546)," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
