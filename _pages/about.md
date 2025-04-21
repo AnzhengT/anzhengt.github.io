@@ -50,7 +50,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 11.  **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "GNNs-Enhanced Sparse Bayesian Learning for mmWave XL-MIMO Channel Estimation", submitted to IEEE SPAWC 2025.
 12. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
 13. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
-14. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," submitted to VTC-Spring WorkShop 2025.
+14. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
 
 # 📖 Educations
 - *2022.03 - Present*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
