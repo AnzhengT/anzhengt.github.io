@@ -71,6 +71,8 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
   - IEEE Transactions on Signal Processing
   - IEEE Transactions on Wireless Communications 
   - IEEE Transactions on Communications
+  - IEEE Transactions on Cognitive Communications and Networking
+  - IEEE Transactions on Vehicular Technology
   - IEEE Internet of Things Journal
   - IEEE Wireless Communications Letters
 - **Conference Reviewer**
