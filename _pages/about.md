@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in Communication Engineering from Ocean University of China, Qingdao, China, in 2020. Since 2022, I have been pursuing the Ph.D. degree at the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China. Since July 2025, I have joined the Department of Electronic and Computer Engineering, Hong Kong Universty of Science and Technology.
+I received the B.S. degree in Communication Engineering from Ocean University of China, Qingdao, China, in 2020, and have received the Ph.D. degree at the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China, in 2025. Since July 2025, I have joined the Department of Electronic and Computer Engineering, Hong Kong Universty of Science and Technology.
 
 My research interest includes Beyond Massive MIMO for future 6G wireless communications, involving:
 
