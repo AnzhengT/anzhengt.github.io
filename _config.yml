@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Anzheng Tang"
-description              : "Ph.D. candidate in the National Mobile Communications Research Laboratory, Southeast University. Focusing on Beyond Massive MIMO for future 6G wireless communications"
+description              : "Postdoctoral in the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology. Focusing on Beyond Massive MIMO for future 6G wireless communications"
 repository               : "AnzhengT/anzhengt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anzheng Tang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Southeast University"
-  location         : "Nanjing, China"
+  bio              : "Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=vrZsq7AAAAAJ"
-  email            : "anzhengt@seu.edu.cn"
+  email            : "eeaztang@ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
