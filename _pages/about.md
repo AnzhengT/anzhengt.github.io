@@ -57,7 +57,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 
 # Work Experience
 - *2025.07 - Present*, Postdoctoral in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
-- 
+ 
 # 📖 Educations
 - *2022.03 - 2025.09*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
 - *2020.09 - 2022.02*, M.S. in Communications and Information Systems, Southeast University, Nanjing, China.
