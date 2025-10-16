@@ -28,6 +28,7 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 I have been awarded a National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TWC.
 - *2025.04*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
 - *2025.03*: &nbsp;🎉🎉 I have been awarded a **Student Travel Grant** for WCNC 2025.
@@ -39,13 +40,13 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 - *2023.10*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
 
 
-# 📝 Publications 
+# 📝 Publications
+## Published or Accepted
 1. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
 2. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
 3. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method](https://ieeexplore.ieee.org/document/10780971)," in **IEEE Trans. Signal Process.**, vol. 73, pp. 356-371, Jan. 2025.
 4. **A. Tang**, J.-B. Wang, Y. Pan, M. Xiao, R. C. de Lamare, and J. Wang et al., "[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](https://arxiv.org/abs/2501.17059)," accepted by IEEE TCOM.
 5. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, and M. Elkashlan, et al., "[Revisiting XL-MIMO channel estimation: When dual-wideband effects meet near field](https://arxiv.org/abs/2407.05643)," accepted by IEEE TWC.
-6. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang, and Emil Bjornson, et al., ``Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm,'' submitted to IEEE TCOM.
 7. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
 8. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 9.  **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Low-dimension angular-domain representation for near-field extra-large MIMO channel](https://ieeexplore.ieee.org/document/10333546)," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
@@ -54,6 +55,8 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 12. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
 13. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
 14. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
+
+## Submitted
 
 # Work Experience
 - *2025.07 - Present*, Postdoctoral in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
