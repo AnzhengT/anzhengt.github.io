@@ -62,7 +62,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness", submitted to IEEE ICASSP.
 16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications.
 17. C. Zeng, J.-B. Wang, Y. Pan, **A. Tang** et. al, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems.
-18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Communications.
+18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Communications.
 # Work Experience
 - *2025.12 - Present*, Postdoctoral Fellow in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
 - *2025.07 - 2025.12*, Visiting Scholar in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
@@ -74,7 +74,7 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 
 # 🎖 Honors and Awards
 - *2025.10* National Scolarship.
-- *2024.10* The First Prize Scholarship of Southeast University.
+- *2025.10* The First Prize Scholarship of Southeast University.
 - *2018.11* National Scolarship.
 - *2025.03* Student Travel Grant for WCNC 2025.
 - *2020.10, 2023.10, 2024.10* The Second Prize Scholarship of Southeast University.
