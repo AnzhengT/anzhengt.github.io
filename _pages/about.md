@@ -29,6 +29,7 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 A conference paper is accepted by IEEE ICASSP.
 - *2025.10*: &nbsp;🎉🎉 I have been awarded a National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TWC.
 - *2025.04*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
@@ -53,19 +54,19 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 8.  **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Low-dimension angular-domain representation for near-field extra-large MIMO channel](https://ieeexplore.ieee.org/document/10333546)," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
 9.  **A. Tang**, J.-B. Wang, Y. Pan et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10639048)," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
 10. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC 2025.
-11. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
-12. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
-13. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
+11. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness", accepted by IEEE ICASSP 2026.
+12. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
+13. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
+14. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
 
 ## Submitted
-14. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing.
-15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness", submitted to IEEE ICASSP.
-16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications.
+15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing.
+16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications (Major Revision).
 17. C. Zeng, J.-B. Wang, Y. Pan, **A. Tang** et. al, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems.
 18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Communications.
 # Work Experience
-- *2025.12 - Present*, Postdoctoral Fellow in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
-- *2025.07 - 2025.12*, Visiting Scholar in the Department of Electronic and Computer Engineering, Hong Kong University od Science and Technology.
+- *2025.12 - Present*, Postdoctoral Fellow in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.
+- *2025.07 - 2025.12*, Research Assistant in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.
  
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
