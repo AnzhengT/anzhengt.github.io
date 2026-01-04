@@ -26,7 +26,7 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 - Resource Optimization: Matrix Analysis, Convex Optimization
 - Artifical Intelligence: Generative AI for Statistical Signal Processing
 
-Up to now, I have published more than 10 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
+Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 A conference paper is accepted by IEEE ICASSP.
@@ -62,9 +62,10 @@ Up to now, I have published more than 10 papers in several flagship IEEE journal
 ## Submitted
 15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing.
 16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications. (Major Revision)
-17. C. Zeng, J.-B. Wang, Y. Pan, **A. Tang** et. al, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems. (Major Revision)
+17. C. Zeng, J.-B. Wang, Y. Pan, **A. Tang** et. al, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning", submitted to IEEE Transactions on Vehicular Technology.
 18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology.
 19. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", submitted to IEEE Vehicular Technology Conference 2026 Spring.
+20. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization for Modular Arrays with Aperture Gain Awareness", submitted to IEEE Transactions on Communications.
  
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
