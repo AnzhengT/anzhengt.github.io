@@ -67,6 +67,7 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 19. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization for Modular Arrays with Aperture Gain Awareness", submitted to IEEE Transactions on Communications.
 20. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", submitted to IEEE International Conference on Communications 2026.
 21. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", submitted to IEEE Vehicular Technology Conference 2026 Spring.
+22. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", submitted to IEEE International Conference on Communications WorkShop 2026.
  
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
