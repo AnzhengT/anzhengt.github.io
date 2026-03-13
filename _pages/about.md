@@ -60,12 +60,12 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 14. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
 15. Z. Wang, Y. Pan, **A. Tang** J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications WorkShop 2026.
 16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications WorkShop 2026.
+17. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
 
 ## Submitted
 15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing.
 16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications. (Major Revision)
-18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology.
-21. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", submitted to IEEE Vehicular Technology Conference 2026 Spring.
+17. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology.
  
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
