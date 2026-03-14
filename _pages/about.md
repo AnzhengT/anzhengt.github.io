@@ -29,6 +29,7 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TCOM, IEEE TVT, IEEE CL, IEEE VTC, IEEE WCSP, IEEE WCNC etc.) in the field of Beyond Massive MIMO.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Three conference papers are accepted by IEEE ICC and VTC.
 - *2025.12*: &nbsp;🎉🎉 A conference paper is accepted by IEEE ICASSP.
 - *2025.10*: &nbsp;🎉🎉 I have been awarded a National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TWC.
