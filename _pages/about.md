@@ -45,19 +45,19 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 7. **A. Tang**, J.-B. Wang, Y. Pan et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10639048)," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
 8. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC 2025.
 9. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness", accepted by IEEE ICASSP 2026.
-10. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
-11. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
-12. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
-13. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
-14. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
-15. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications 2026.
-16. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
-17. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
+10. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", accepted by **IEEE Trans. Commun.**
+11. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
+12. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
+13. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "[Fractional fourier transformation based XL-MIMO near-field channel analysis](https://ieeexplore.ieee.org/document/10694136)," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
+14. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system](https://ieeexplore.ieee.org/document/10827699)," accepted by IEEE WCSP 2024.
+15. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," accepted by VTC-Spring WorkShop 2025.
+16. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications 2026.
+17. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
+18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
 
 ## Submitted
 15. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing. (Major Revision)
 16. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to IEEE Transactions on Communications.
-17. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", submitted to IEEE Transaction on Communications. (Major Revision)
 18. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
  
 # 📖 Educations
