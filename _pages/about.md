@@ -70,7 +70,7 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 - *2016.08 - 2020.06*, B.E. in Communications Engineering, Ocean University of China, Qingdao, China.
 
 # Work Experience
-- *2025.12 - Present*, Postdoctoral Fellow in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.
+- *2025.12 - Present*, Postdoctoral Researcher in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.
 - *2025.07 - 2025.12*, Research Assistant in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
