@@ -26,7 +26,7 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 - Resource Optimization: Matrix Analysis, Convex Optimization
 - Artifical Intelligence: Generative AI for Statistical Signal Processing
 
-Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TWC, and IEEE TCOM) in the field of Beyond Massive MIMO.
+Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP) in the field of Beyond Massive MIMO.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TCOM.
@@ -42,15 +42,15 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 3. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method](https://ieeexplore.ieee.org/document/10780971)," in **IEEE Trans. Signal Process.**, vol. 73, pp. 356-371, Jan. 2025.
 4. **A. Tang**, J.-B. Wang, Y. Pan, M. Xiao, R. C. de Lamare, and J. Wang et al., "[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](https://arxiv.org/abs/2501.17059)," in **IEEE Trans. Commun.**, vol. 73, no. 10, pp. 9421-9436, Oct. 2025.
 5. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, and M. Elkashlan, et al., "[Revisiting XL-MIMO channel estimation: When dual-wideband effects meet near field](https://arxiv.org/abs/2407.05643)," in **IEEE Trans Wireless Commun.**, vol. 25, pp. 4231-4247, 2026.
-10. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", accepted by **IEEE Trans. Commun.**
-11. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
-12. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
+6. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission", accepted by **IEEE Trans. Commun.**
+7. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
+8. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 
 ## Conference Papers
-1. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "Low-dimension angular-domain representation for near-field extra-large MIMO channel," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
-2. **A. Tang**, J.-B. Wang, Y. Pan et al., "Joint visibility region and channel estimation for extremely large-scale MIMO systems," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
-3. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC 2025, Milan, Italy, 2025, pp. 1-6.
-4. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness", accepted by IEEE ICASSP 2026.
+1. **A. Tang**, S. Song, C. -Y. Tsui, R. C. de Lamare and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness," ICASSP 2026, Barcelona, Spain, 2026, pp. 21952-21956.
+2. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC 2025, Milan, Italy, 2025, pp. 1-6.
+3. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "Low-dimension angular-domain representation for near-field extra-large MIMO channel," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
+4. **A. Tang**, J.-B. Wang, Y. Pan et al., "Joint visibility region and channel estimation for extremely large-scale MIMO systems," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
 5. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "Fractional fourier transformation based XL-MIMO near-field channel analysis," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
 6. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system," accepted by IEEE WCSP 2024.
 7. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," IEEE 2025 VTC-Spring, Oslo, Norway, 2025, pp. 1-6.
