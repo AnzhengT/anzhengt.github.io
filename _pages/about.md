@@ -74,14 +74,13 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 - *2025.07 - 2025.12*, Research Assistant in the Department of ECE, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2025.10* National Scolarship.
+- *2025.10, 2018.11* National Scolarship.
 - *2025.10* The First Prize Scholarship of Southeast University.
-- *2018.11* National Scolarship.
 - *2025.03* Student Travel Grant for WCNC 2025.
-- *2020.10, 2023.10, 2024.10* The Second Prize Scholarship of Southeast University.
+- *2024.10, 2023.10, 2020.10* The Second Prize Scholarship of Southeast University.
 - *2020.05* Outstanding Graduates Awards of Shandong Provience.
-- *2017.09, 2018.09, 2019.09* The First Prize Scholarship of Ocean University of China.
-- *2017.09, 2018.09, 2019.09* The Excellent Student of Ocean University of China.   
+- *2019.09, 2018.09, 2017.09* The First Prize Scholarship of Ocean University of China.
+- *2019.09, 2018.09, 2017.09* The Excellent Student of Ocean University of China.   
 
 # 💬 Academic Services
 - **Journal Reviewer**
