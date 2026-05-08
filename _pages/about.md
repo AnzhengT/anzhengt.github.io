@@ -61,8 +61,9 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 ## Submitted
 1. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm", submitted to IEEE Transactions on Signal Processing. (Major Revision)
 2. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to IEEE Transactions on Communications.
-3. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
-4. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", submitted to IEEE Globecom 2026.
+3. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, ``Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems'', submitted to IEEE Transactions on Wireless Communications.
+4. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
+5. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", submitted to IEEE Globecom 2026.
 
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
