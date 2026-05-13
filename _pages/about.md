@@ -47,7 +47,7 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 8. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 
 ## Conference Papers
-1. **A. Tang**, S. Song, C. -Y. Tsui, R. C. de Lamare and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness," ICASSP 2026, Barcelona, Spain, 2026, pp. 21952-21956.
+1. **A. Tang**, S. Song, C. -Y. Tsui, R. C. de Lamare and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness," IEEE ICASSP 2026, Barcelona, Spain, 2026, pp. 21952-21956.
 2. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," accepted by IEEE WCNC 2025, Milan, Italy, 2025, pp. 1-6.
 3. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "Low-dimension angular-domain representation for near-field extra-large MIMO channel," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
 4. **A. Tang**, J.-B. Wang, Y. Pan et al., "Joint visibility region and channel estimation for extremely large-scale MIMO systems," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
