@@ -23,7 +23,6 @@ My research interest includes Beyond Massive MIMO for future 6G wireless communi
 
 - Electromagnetic Information Theory: Channel Modeling, Sampling Theory
 - Statistical Signal Processing: Compressive Sensing, Channel Estimation, MIMO Detection
-- Resource Optimization: Matrix Analysis, Convex Optimization
 - Artifical Intelligence: Generative AI for Statistical Signal Processing
 
 Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP) in the field of Beyond Massive MIMO.
@@ -76,11 +75,11 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 - *2025.07 - 2025.12*, Research Assistant in the Department of ECE, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2025.10, 2018.11* National Scolarship.
+- *2025.10, 2018.11* National Scholarship.
 - *2025.10* The First Prize Scholarship of Southeast University.
-- *2025.03* Student Travel Grant for WCNC 2025.
+- *2025.03* The Student Travel Grant for WCNC 2025.
 - *2024.10, 2023.10, 2020.10* The Second Prize Scholarship of Southeast University.
-- *2020.05* Outstanding Graduates Awards of Shandong Provience.
+- *2020.05* The Outstanding Graduates Awards of Shandong Provience.
 - *2019.09, 2018.09, 2017.09* The First Prize Scholarship of Ocean University of China.
 - *2019.09, 2018.09, 2017.09* The Excellent Student of Ocean University of China.   
 
