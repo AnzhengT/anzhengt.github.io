@@ -44,8 +44,9 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 5. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," in **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
 6. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," in **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
 7. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "[D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission](https://ieeexplore.ieee.org/document/11501944)", accepted by **IEEE Trans. Commun.**
-8. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
-9. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
+8. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas", accepted by IEEE Open Journal of the Communications Society.
+9. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
+10. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 
 ## Conference Papers
 1. **A. Tang**, S. Song, C. -Y. Tsui, R. C. de Lamare and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness," IEEE ICASSP 2026, Barcelona, Spain, 2026, pp. 21952-21956.
@@ -66,7 +67,6 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 5. C. Zeng, H. Zeng, Z. Yang, **A. Tang**, and R. Zhang, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning," submitted to IEEE Transactions on Vehicular Technology.
 6. H. Zeng, C. Zeng, Z. Yang, **A. Tang**, and R. Zhang, "Physics-Constrained Adaptive USV Trajectory Planning for Flow-Communication-Coupled Maritime Sensing," submitted to IEEE Internet of Things Journal.
 7. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
-8. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas", submitted to IEEE Open Journal of the Communications Society. (Major Revision)
 9. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", submitted to IEEE Globecom 2026.
 
 # 📖 Educations
