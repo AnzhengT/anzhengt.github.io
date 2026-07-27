@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received received the B.S. degree in communication engineering from the Ocean University of China, Qingdao, China, in 2020, and the Ph.D. degree from the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China, in December 2025. From July to December 2025, I was a Research Assistant at the Hong Kong University of Science and Technology, Hong Kong, China, where I has been a Postdoctoral Researcher since December 2025.
+I received the B.S. degree from Ocean University of China, Qingdao, China, in 2020, and the Ph.D. degree from the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China, in December 2025. From July to December 2025, I worked as a Research Assistant at The Hong Kong University of Science and Technology (HKUST), Hong Kong, China, where I have been a Postdoctoral Researcher since December 2025.
 
-My research interest includes Beyond Massive MIMO for future 6G wireless communications, involving:
+To date, I have authored and co-authored more than 20 papers in premier IEEE journals and conferences, including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP. My research primarily focuses on the theoretical foundations and signal processing techniques for Beyond Massive MIMO systems, spanning
 
-- Electromagnetic Information Theory: Channel Modeling, Sampling Theory
-- Statistical Signal Processing: Compressive Sensing, Channel Estimation, MIMO Detection
+- Electromagnetic Information Theory: Channel Modeling and Sampling Theory
+- Statistical Signal Processing: Compressive Sensing, Channel Estimation, and MIMO Detection
 - Artifical Intelligence: Generative AI for Statistical Signal Processing
-
-Up to now, I have published near 20 papers in several flagship IEEE journals and EI conferences (including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP) in the field of Beyond Massive MIMO.
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP.
@@ -59,15 +57,13 @@ Up to now, I have published near 20 papers in several flagship IEEE journals and
 8. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications 2026.
 9. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
 10. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
+11. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", accepted by IEEE Globecom 2026.
 
 ## Submitted
-2. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to IEEE Transactions on Communications.
-3. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to IEEE Transactions on Wireless Communications.
-4. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", submitted to IEEE ISAC 2026.
-5. C. Zeng, H. Zeng, Z. Yang, **A. Tang**, and R. Zhang, "USV Enabled Maritime Rescue System in Dynamic Ocean Environments: From Optimization to Deep Reinforcement Learning," submitted to IEEE Transactions on Vehicular Technology.
-6. H. Zeng, C. Zeng, Z. Yang, **A. Tang**, and R. Zhang, "Physics-Constrained Adaptive USV Trajectory Planning for Flow-Communication-Coupled Maritime Sensing," submitted to IEEE Internet of Things Journal.
-7. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
-9. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", submitted to IEEE Globecom 2026.
+1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to IEEE Transactions on Communications.
+2. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to IEEE Transactions on Wireless Communications.
+3. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", submitted to IEEE ISAC 2026.
+4. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
 
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
