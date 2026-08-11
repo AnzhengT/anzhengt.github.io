@@ -60,11 +60,13 @@ To date, I have authored and co-authored more than 20 papers in premier IEEE jou
 11. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", accepted by IEEE Globecom 2026.
 
 ## Submitted
-1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to IEEE Transactions on Communications.
-2. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to IEEE Transactions on Wireless Communications.
-3. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to IEEE Transactions on Communications.
-4. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", submitted to IEEE ISAC 2026.
+1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to **IEEE Transactions on Communications**.
+2. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to **IEEE Transactions on Wireless Communications**.
+3. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
+4. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**.
 5. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
+6. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", submitted to IEEE ISAC 2026.
+
 
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
@@ -80,7 +82,7 @@ To date, I have authored and co-authored more than 20 papers in premier IEEE jou
 - *2025.10* The First Prize Scholarship of Southeast University.
 - *2025.03* The Student Travel Grant for WCNC 2025.
 - *2024.10, 2023.10, 2020.10* The Second Prize Scholarship of Southeast University.
-- *2020.05* The Outstanding Graduates Awards of Shandong Provience.
+- *2020.05* The Outstanding Graduates Awards of Shandong Province.
 - *2019.09, 2018.09, 2017.09* The First Prize Scholarship of Ocean University of China.
 - *2019.09, 2018.09, 2017.09* The Excellent Student of Ocean University of China.   
 
