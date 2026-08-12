@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree from Ocean University of China, Qingdao, China, in 2020, and the Ph.D. degree from the National Mobile Communications Research Laboratory, Southeast University, Nanjing,[...]
+I received the B.S. degree from Ocean University of China, Qingdao, China, in 2020, and the Ph.D. degree from the National Mobile Communications Research Laboratory, Southeast University, Nanjing, China, in December 2025. From July to December 2025, I worked as a Research Assistant at The Hong Kong University of Science and Technology (HKUST), Hong Kong, China, where I have been a Postdoctoral Researcher since December 2025.
 
-To date, I have authored and co-authored more than 20 papers in premier IEEE journals and conferences, including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP. My research primarily focuses on th[...]
+To date, I have authored and co-authored more than 20 papers in premier IEEE journals and conferences, including IEEE TSP, IEEE TWC, IEEE TCOM, and IEEE ICASSP. My research primarily focuses on the theoretical foundations and signal processing techniques for Beyond Massive MIMO systems, spanning
 
 - Electromagnetic Information Theory: Channel Modeling and Sampling Theory
 - Statistical Signal Processing: Compressive Sensing, Channel Estimation, and MIMO Detection
-- Artifical Intelligence: Generative AI for Statistical Signal Processing
+- Artificial Intelligence: Generative AI for Statistical Signal Processing
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP.
