@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Anzheng Tang"
-description              : "Postdoctoral Researcher, ECE, Hong Kong University of Science and Technology."
+description              : "Postdoctoral Researcher, ECE, The Hong Kong University of Science and Technology."
 repository               : "AnzhengT/anzhengt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anzheng Tang"
   avatar           : "images/photo.jpg"
-  bio              : "Hong Kong University of Science and Technology"
+  bio              : "The Hong Kong University of Science and Technology"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
