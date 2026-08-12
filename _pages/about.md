@@ -35,14 +35,14 @@ To date, I have authored and co-authored more than 20 papers in premier IEEE jou
 
 # 📝 Publications
 ## Journal Papers
-1. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "[Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm](https://ieeexplore.ieee.org/document/11557084)", accepted by **IEEE Trans. Signal Process.**
+1. **A. Tang**, S.H. Song, C.-Y. Tsui, Rodrigo. C. Lamare, and M. Debbah, "[Mutual Coupling-Aware Channel Estimation for Holographic MIMO Systems: A Vector Factorization Design Paradigm](https://ieeexplore.ieee.org/document/11557084)", in **IEEE Trans. Signal Process.**, vol. 74, pp. 2606-2622, 2026.
 2. **A. Tang**, J.-B. Wang, Y. Pan, T. Wu, and M. Elkashlan, et al., "[Revisiting XL-MIMO channel estimation: When dual-wideband effects meet near field](https://ieeexplore.ieee.org/document/11174089)," in **IEEE Trans Wireless Commun.**, vol. 25, pp. 4231-4247, 2026.
 3. **A. Tang**, J.-B. Wang, Y. Pan, M. Xiao, R. C. de Lamare, and J. Wang et al., "[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing](https://ieeexplore.ieee.org/document/10978081)," in **IEEE Trans. Commun.**, vol. 73, no. 10, pp. 9421-9436, Oct. 2025.
 4. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Spatially non-stationary XL-MIMO channel estimation: A three-layer generalized approximate message passing method](https://ieeexplore.ieee.org/document/10780971)," in **IEEE Trans. Signal Process.**, vol. 73, pp. 356-371, Jan. 2025.
 5. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," in **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
 6. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," in **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
 7. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "[D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission](https://ieeexplore.ieee.org/document/11501944)", accepted by **IEEE Trans. Commun.**
-8. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas", accepted by IEEE Open Journal of the Communications Society.
+8. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "[Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas](https://ieeexplore.ieee.org/document/11614915)", in **IEEE Open Journal of the Communications Society**,  vol. 7, pp. 8646-8660, 2026.
 9. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
 10. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 
@@ -78,7 +78,7 @@ To date, I have authored and co-authored more than 20 papers in premier IEEE jou
 - *2025.07 - 2025.12*, Research Assistant in the Department of ECE, The Hong Kong University of Science and Technology.
 
 # 🎖 Honors and Awards
-- *2025.10, 2018.11* National Scholarship.
+- *2025.10, 2018.11* National Scholarship of China.
 - *2025.10* The First Prize Scholarship of Southeast University.
 - *2025.03* The Student Travel Grant for WCNC 2025.
 - *2024.10, 2023.10, 2020.10* The Second Prize Scholarship of Southeast University.
