@@ -23,7 +23,7 @@ To date, I have authored and co-authored more than 20 papers in premier IEEE jou
 
 - Electromagnetic Information Theory: Channel Modeling and Sampling Theory
 - Statistical Signal Processing: Compressive Sensing, Channel Estimation, and MIMO Detection
-- Artifical Intelligence: Generative AI for Statistical Signal Processing
+- Artificial Intelligence: Generative AI for Statistical Signal Processing
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 A journal paper is accepted by IEEE TSP.
