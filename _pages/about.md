@@ -51,13 +51,14 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 2. **A. Tang**, J.-B. Wang, Y. Pan et al., "Channel estimation for multiuser extremely large-scale MIMO systems," IEEE WCNC 2025, Milan, Italy, 2025, pp. 1-6.
 3. **A. Tang**, J.-B. Wang, Y. Pan et al., "Joint visibility region and channel estimation for extremely large-scale MIMO systems," ISWCS 2024, Rio de Janeiro, Brazil, 2024, pp. 1-6.
 4. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "Low-dimension angular-domain representation for near-field extra-large MIMO channel," VTC2023-Fall, Hong Kong, 2023, pp. 1-5.
-5. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "Fractional fourier transformation based XL-MIMO near-field channel analysis," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
-6. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system," accepted by IEEE WCSP 2024.
-7. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," IEEE 2025 VTC-Spring, Oslo, Norway, 2025, pp. 1-6.
-8. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications 2026.
-9. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
-10. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
-11. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", accepted by IEEE Globecom 2026.
+5. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", accepted by IEEE ISAC 2026.
+6. M. Jian, **A. Tang**, Y. Chen and Y. Zhao, "Fractional fourier transformation based XL-MIMO near-field channel analysis," 2024 IEEE SPAWC, Lucca, Italy, 2024, pp. 221-225.
+7. C. Zeng, J.-B. Wang, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "Joint power and trajectory control for integrated satellite-USV-terrestrial maritime rescue system," accepted by IEEE WCSP 2024.
+8. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang, H. Yu, and Y. Chen, "Spatial Bandwidth Analysis of Line-of-Sight Extremely Large-Scale MIMO Systems," IEEE 2025 VTC-Spring, Oslo, Norway, 2025, pp. 1-6.
+9. Z. Wang, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Channel Tracking with Fractional-Domain Sparsity Awareness", accepted by IEEE International Conference on Communications 2026.
+10. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
+11. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
+12. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", accepted by IEEE Globecom 2026.
 
 ## Submitted
 1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to **IEEE Transactions on Communications**.
@@ -65,7 +66,6 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 3. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
 4. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**.
 5. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
-6. G. Shang, **A. Tang**, H. Zhang, K.K. Chan, and S.H. Song, "Radio Representation Learning for Semantic Localization in MIMO-ISAC Systems", submitted to IEEE ISAC 2026.
 
 
 # 📖 Educations
