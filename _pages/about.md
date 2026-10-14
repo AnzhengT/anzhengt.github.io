@@ -59,7 +59,7 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 10. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "D3QN-IL Based Hierarchical Resource Management for MEC-Assisted VR Systems", accepted by IEEE International Conference on Communications 2026.
 11. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Cramer-Rao Bound for Near-field Localization in the Modular XL-MIMO Systems", accepted by IEEE Vehicular Technology Conference 2026 Spring.
 12. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Unified Tri-Hybrid Beamforming for Multi-User ISAC with Pattern-Reconfigurable Antennas", accepted by IEEE Globecom 2026.
-13. H. Zeng, C. Zeng, Z. Yang, A. Tang and Y. Huang, "Reliable Maritime NTN Access via Flow- and Safety-Aware USV Trajectory Planning", accepted by IEEE Globecom 2026.
+13. H. Zeng, C. Zeng, Z. Yang, **A. Tang** and Y. Huang, "Reliable Maritime NTN Access via Flow- and Safety-Aware USV Trajectory Planning", accepted by IEEE Globecom 2026.
 
 ## Submitted
 1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to **IEEE Transactions on Communications**.
