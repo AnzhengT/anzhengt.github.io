@@ -63,11 +63,12 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 
 ## Submitted
 1. **A. Tang**, S.H. Song, C. Zeng, W. Chen, C.-Y. Tsui, "Spatial Sub-Nyquist Sampling Enabled Channel Reconstruction for Reconfigurable MIMO Systems", submitted to **IEEE Transactions on Communications**.
-2. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to **IEEE Transactions on Wireless Communications**.
-3. Z. Zhuang, **A. Tang**, X. Zhang, D. Xu, and S.H. Song, "A Unified Framework for Characterizing General MIMO Channels", submitted to **IEEE Transactions on Information Theory**.
-4. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
-5. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**.
-6. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
+2. **A. Tang**, A. Rezaei, G. Shang, Z. Zhuang, S.H. Song, and C.-Y. Tsui, "Variational Flow Matching-Aided Channel Estimation for MIMO-OFDM Systems", submitted to IEEE WCNC 2026. 
+3. G. Shang, **A. Tang**, K.K. Chan, and S.H. Song, "Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems", submitted to **IEEE Transactions on Wireless Communications**.
+4. Z. Zhuang, **A. Tang**, X. Zhang, D. Xu, and S.H. Song, "A Unified Framework for Characterizing General MIMO Channels", submitted to **IEEE Transactions on Information Theory**.
+5. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
+6. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**. (Major Revision)
+7. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
 
 
 # 📖 Educations
