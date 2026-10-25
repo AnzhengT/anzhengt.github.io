@@ -69,7 +69,7 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 5. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
 6. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**. (Major Revision)
 7. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
-
+8. G. Shang, **A. Tang**, Z. Zhuang, and S.H. Song, "Prospective Importance-Based Cognitive Pilot Design for Semantic Sensing in ISAC Systems", submitted to IEEE WCNC 2026.
 
 # 📖 Educations
 - *2022.03 - 2025.12*, Ph.D. in Communications and Information Systems, Southeast University, Nanjing, China.
