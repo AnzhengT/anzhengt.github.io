@@ -42,9 +42,10 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 5. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Joint visibility region and channel estimation for extremely large-scale MIMO systems](https://ieeexplore.ieee.org/document/10509715)," in **IEEE Trans. Commun.**, vol. 72, no. 10, pp. 6087-6101, Oct. 2024.
 6. **A. Tang**, J.-B. Wang, Y. Pan, and R. C. de Lamare et al., "[Line-of-sight extra-large MIMO systems with angular domain processing: Channel representation and transceiver architecture](https://ieeexplore.ieee.org/document/10278494)," in **IEEE Trans. Commun.**, vol. 72, no. 1, pp. 570–584, Jan. 2024.
 7. N. Su, J.-B. Wang, **A. Tang**, C. Zeng, and M. Xiao, "[D3QN-Based Collaborative Rendering Offloading and Resource Allocation for MEC-Enabled VR Systems with XL-MIMO Transmission](https://ieeexplore.ieee.org/document/11501944)", in **IEEE Trans. Commun.**, vol. 74, pp. 8640-8654, 2026.
-8. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "[Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas](https://ieeexplore.ieee.org/document/11614915)", in **IEEE Open Journal of the Communications Society**,  vol. 7, pp. 8646-8660, 2026.
-9. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
-10. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
+8. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", accepted by IEEE Transactions on Vehicular Technology.
+9. Y. Pan, Y. Ji, **A. Tang**, J.-B. Wang, et al., "[Sum-Rate Maximization for RSMA Systems with Pattern-Reconfigurable Fluid Antennas](https://ieeexplore.ieee.org/document/11614915)", in **IEEE Open Journal of the Communications Society**,  vol. 7, pp. 8646-8660, 2026.
+10. J.-B. Wang, B. Zhu, Y. Pan, Y. Chen, H. Yu,  **A. Tang**, "[Power control and passive beamforming for the STAR-RIS with rotatable angles](https://ieeexplore.ieee.org/document/10444937)," **IEEE Trans. Veh. Technol.**, vol. 73, no. 8, pp. 12121-12125, Aug. 2024.
+11. Y. Pan, Z. Qin, J.-B. Wang, Y. Chen, H. Yu,  **A. Tang**, "[Joint deployment and beamforming design for STAR-RIS aided communication](https://ieeexplore.ieee.org/document/10254537)," **IEEE Commun. Lett.**, vol. 27, no. 11, pp. 3083-3087, Nov. 2023.
 
 ## Conference Papers
 1. **A. Tang**, S. Song, C. -Y. Tsui, R. C. de Lamare and M. Debbah, "Channel Estimation for Holographic MIMO Systems with Mutual Coupling Awareness," IEEE ICASSP 2026, Barcelona, Spain, 2026, pp. 21952-21956.
@@ -68,7 +69,6 @@ To date, I have authored or co-authored more than 20 papers in premier IEEE jour
 4. Z. Zhuang, **A. Tang**, X. Zhang, D. Xu, and S.H. Song, "A Unified Framework for Characterizing General MIMO Channels", submitted to **IEEE Transactions on Information Theory**.
 5. G. Shang, Z. Zhuang, **A. Tang**, S.H. Song, and C.-Y. Tsui, "2D Coprime Pilots for Delay-Doppler Sensing in OFDM-ISAC Systems", submitted to **IEEE Transactions on Communications**.
 6. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization Using Modular Arrays with Imperfect Inter-Subarray Coherence: Modeling, Analysis, and Algorithms", submitted to **IEEE Transactions on Communications**. (Major Revision)
-7. X. Qian, Y. Pan, **A. Tang**, J.-B. Wang et al., "Near-Field Localization with Distributed Modular Array: Spatial Bandwidth based Design Paradigm", submitted to IEEE Transactions on Vehicular Technology. (Major Revision)
 8. G. Shang, **A. Tang**, Z. Zhuang, and S.H. Song, "Prospective Importance-Based Cognitive Pilot Design for Semantic Sensing in ISAC Systems", submitted to IEEE WCNC 2026.
 9. Z. Zhuang, **A. Tang**, G. Shang, Y. Wang, and S.H. Song, "A CLT for the SINR of Decentralized LMMSE Reception Over Spatially Correlated Channels", submitted to IEEE WCNC 2026.
 
